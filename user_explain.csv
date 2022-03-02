@@ -1,0 +1,16 @@
+,mean
+id,id của user
+full_name,full name của User
+city,thành phố của user
+created_at,thời gian tạo tài khoản
+likes_count,số lượng track mà user đó like
+playlist_count,số lượng playlist
+comments_count,số lượng comment của User
+track_count,số lượng track của User
+followers_count,số lượng follow của User
+followings_count,số lượng các tài khoản mà User này follow
+country_code,mã đất nước vd: VN; AU; US v.v..
+creator_subscriptions,kiểu đăng ký bản quyền cho nội dung sáng tạo.
+kind,loại người dùng
+username,username của người dùng
+badges,huy hiệu của người dùng

@@ -1,0 +1,21 @@
+,mean
+id,Id của track đó
+genre,thể loại
+user_id,user id của tác giả của track này
+created_at,thời gian tạo (đăng track)
+duration,"là khoảng thời gian hoặc khoảng thời gian dài hay ngắn của một nốt nhạc, cụm từ, phần hoặc sáng tác"
+comment_count,số lượng comment
+likes_count,số lượng like
+playback_count,số lượng lượt nghe
+reposts_count,số lượng repost
+commentable,track có cho phép comment hay không?
+downloadable,track này có cho download hay không?
+download_count,track này có bao nhiêu lượt tải về
+kind,thể loại gì (track hay playlist)
+label_name,tên của hãng sở hữu track này
+public,track này có công khai hay không?
+purchase_url,link để mua track này (nếu không có thì track miễn phí tải)
+streamable,có cho phép stream hay không
+tag_list,danh sách các tag của track này
+title,tên của track
+state,trạng thái của track
